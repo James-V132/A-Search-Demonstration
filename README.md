@@ -1,0 +1,1 @@
+A program meant to demonstrate how a A* Search Algorithm works with the generation of a maze and the ways it could be solved using the Manhattan, Euclidean, and Chebyshev methods while calculating the duration and effectiveness to solve said maze
