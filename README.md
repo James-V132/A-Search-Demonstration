@@ -15,8 +15,7 @@ The value of “h” is determined based off one of the three possible heuristic
 ![Screenshot of Manhattan Distance](images/Chebyshev_Distance.png)
 
 ### Program Description
-Using the knowledge of each heuristic, the duration and effectiveness for each to solve the maze can be calculated. 
-
+Using the knowledge of each heuristic, the duration and effectiveness for each to solve the maze can be calculated. This is demonstrated using the program wherein a maze is generated with a random start and end point each iteration. In addition, each heuristic is demonstrated with each displaying the path taken following each one, along with the distance they would travel and duration of the travel
 
 ### Credits
-Listed the functionality and description of each heuristic and A* Search in genereal: [Link](https://www.geeksforgeeks.org/a-search-algorithm/ )
+Listed the functionality and description of each heuristic and A* Search in general: [Link](https://www.geeksforgeeks.org/a-search-algorithm/ )
